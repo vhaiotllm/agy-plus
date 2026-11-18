@@ -1,0 +1,12 @@
+{
+  "name": "agy-engineering-fleet",
+  "displayName": "AGY Engineering Fleet (Subagents & PR/Feature Workflows)",
+  "version": "1.0.0",
+  "description": "11 specialist subagents and 8 engineering slash workflows ported from Claude Code Official Marketplace and OpenAI Codex: code-architect, code-explorer, code-simplifier, pr-code-reviewer, silent-failure-hunter, type-design-analyzer, pr-test-analyzer, security-auditor, legacy-modernizer, repo-scout, conversation-analyzer, feature-dev, review-pr, commit-push-pr, simplify, and modernize.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Run /feature-dev to architect and implement a new feature end-to-end",
+    "Run /review-pr with parallel specialist subagents on my current changes",
+    "Run /simplify to clean up and refine my recently modified files"
+  ]
+}

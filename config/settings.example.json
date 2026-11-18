@@ -1,0 +1,21 @@
+{
+  "mode": "accept-edits",
+  "permissions": {
+    "allow": [
+      "read_file(*)",
+      "write_file(*)",
+      "read_url(*)",
+      "execute_url(*)",
+      "command(*)",
+      "unsandboxed(*)",
+      "mcp(*)"
+    ]
+  },
+  "statusLine": {
+    "type": "",
+    "command": "~/.gemini/antigravity-cli/statusline.sh",
+    "enabled": true,
+    "stack_with_default": true
+  },
+  "trustedWorkspaces": []
+}

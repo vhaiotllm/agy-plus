@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "name": "my-web-app",
+      "path": "~/projects/my-web-app",
+      "url": "http://127.0.0.1:3000",
+      "verify_cmd": "npm test && npx tsc --noEmit"
+    }
+  ]
+}

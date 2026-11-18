@@ -1,0 +1,12 @@
+{
+  "name": "agy-core-plus",
+  "displayName": "AGY Core Plus (Claude & Codex Engine)",
+  "version": "1.0.0",
+  "description": "Brings Claude Code and OpenAI Codex flagship runtime features to AGY: persistent cross-session auto-memory (SQLite FTS5 + MEMORY.md), automatic pre-edit file checkpoints & time-travel undo, Ralph-loop autonomous goal continuation, security-guidance advisories, declarative Hookify rules, and cross-agent session search.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Save our project architecture and test commands to persistent memory",
+    "Start a Ralph loop to fix all failing tests until npm test passes",
+    "List recent file-history checkpoints and show the diff for the latest edit"
+  ]
+}

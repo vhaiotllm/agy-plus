@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.db
+*.db-shm
+*.db-wal
+*.sqlite*
+*.bak
+.env
+.env.*
+.DS_Store
+last_audit.json
+audit-artifacts/
+runtime/agy_plus/projects.json
+*oauth*
+*token*
+*credentials*
